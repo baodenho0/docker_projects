@@ -1,0 +1,7 @@
+2020/11/08 16:28:03 [error] 18#18: *2 rewrite or internal redirection cycle while internally redirecting to "/index.php", client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2020/11/08 16:28:03 [error] 19#19: *1 open() "/var/www/html/public/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2020/11/08 16:29:49 [error] 18#18: *4 rewrite or internal redirection cycle while internally redirecting to "/index.php", client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2020/11/08 16:29:49 [error] 18#18: *3 rewrite or internal redirection cycle while internally redirecting to "/index.php", client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2020/11/08 16:29:49 [error] 18#18: *5 rewrite or internal redirection cycle while internally redirecting to "/index.php", client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2020/11/08 16:31:36 [error] 18#18: *7 rewrite or internal redirection cycle while internally redirecting to "/index.php", client: 172.18.0.1, server: localhost, request: "GET /php HTTP/1.1", host: "localhost"
+2020/11/08 16:31:42 [error] 18#18: *8 rewrite or internal redirection cycle while internally redirecting to "/index.php", client: 172.18.0.1, server: localhost, request: "GET /nginx HTTP/1.1", host: "localhost"
